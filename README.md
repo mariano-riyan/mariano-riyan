@@ -1,4 +1,4 @@
-# Hi, I'm Riyan! 👋
+# Hello, I'm Riyan! 👋
 
 *I am a Computer Science student and Web Developer with hands-on experience in full-stack development. I specialize in translating complex business requirements into modern, responsive web experiences, with a proven track record in Laravel migration and the full software development lifecycle.*
 
