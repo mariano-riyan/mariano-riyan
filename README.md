@@ -85,7 +85,7 @@
   <img src="https://streak-stats.demolab.com?user=mariano-riyan&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" height="193.05" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/mariano-riyan/mariano-riyan/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&bg_color=ffffff&color=1B2824&title_color=304e4d&line=304e4d&point=304e4d&area_color=ffffff" height="300" alt="activity-graph graph"  />
   <img src="https://raw.githubusercontent.com/mariano-riyan/mariano-riyan/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="193.05" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/mariano-riyan/mariano-riyan/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="138" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/mariano-riyan/mariano-riyan/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="194" alt="languages graph"  />
 </div>
 
 ###
