@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h3 data-importer="text" align="left">🙋🏻 About Me</h3>
+<h2 data-importer="text" align="left">🙋🏻 About Me</h2>
 
 ###
 
@@ -31,11 +31,11 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Tech Stack</h3>
+<h2 data-importer="text" align="left">🛠 Tech Stack</h2>
 
 ###
 
-<h6 data-importer="text" align="left">WEB TECHNOLOGIES</h6>
+<h5 data-importer="text" align="left">WEB TECHNOLOGIES</h5>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">FRAMEWORKS & LIBRARIES</h6>
+<h5 data-importer="text" align="left">FRAMEWORKS & LIBRARIES</h5>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">TOOLS & DEVELOPMENT ENVIRONMENT</h6>
+<h5 data-importer="text" align="left">TOOLS & DEVELOPMENT ENVIRONMENT</h5>
 
 ###
 
